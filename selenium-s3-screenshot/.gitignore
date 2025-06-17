@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+
+# Environment variables
+.env
+
+# Local files
+screenshot.png
+
+# IDE files
+.idea/
+*.iml
